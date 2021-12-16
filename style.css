@@ -1,0 +1,14 @@
+* {
+    background-color: cornsilk;
+}
+
+h1 {
+    color: maroon;
+    font-size: 48px;
+    font-family: 'Arial', sans-serif;
+}
+.link {
+    color:lightcoral;
+    font-size: 24px;
+    font-family: 'Arial', sans-serif;
+}

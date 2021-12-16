@@ -1,0 +1,29 @@
+* {
+    background-color: cornsilk;
+}
+h1 {
+    color:lightcoral;
+    font-size: 48px;
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+h2 {
+    color: lightcoral;
+    font-size: 32px;
+    text-align: center;
+}
+h3 {
+    color: lightcoral;
+    text-align: center;
+}
+li {
+    text-align: center;
+    color:maroon;
+}
+p {
+    text-align: center;
+    color: maroon;
+}
